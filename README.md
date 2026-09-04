@@ -121,12 +121,42 @@ Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorand
 
 #### Outros projetos
 
-| Projeto | Tecnologias | Repositório |
-|---|---|---|
-| **NexaFinance** | Flutter | [Repositório](https://github.com/vercci7/nexafinance) |
-| **InsightFlow AI** | Python · IA Generativa | [Repositório](https://github.com/vercci7/insightflow-ai) |
-| **Nexa Finance Web** | JavaScript · HTML · CSS | [Repositório](https://github.com/vercci7/nexa-finance-web) |
-| **BuscarLivro** | JavaScript · REST API | [Repositório](https://github.com/vercci7/buscarlivro) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>NexaFinance</h3>
+<p>Aplicativo financeiro desenvolvido em Flutter, com foco em controle e organização financeira pessoal.</p>
+<img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter&logoColor=457B9D" />
+<br/><br/>
+<a href="https://github.com/vercci7/nexafinance"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>InsightFlow AI</h3>
+<p>Projeto voltado à aplicação prática de inteligência artificial em fluxos de dados e automações.</p>
+<img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=457B9D" />
+<img src="https://img.shields.io/badge/-IA%20Generativa-0D1117?style=flat-square&logo=openai&logoColor=white" />
+<br/><br/>
+<a href="https://github.com/vercci7/insightflow-ai"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Nexa Finance Web</h3>
+<p>Versão web do NexaFinance, levando a experiência financeira do app para o navegador.</p>
+<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/-HTML/CSS-0D1117?style=flat-square&logo=html5&logoColor=E63946" />
+<br/><br/>
+<a href="https://github.com/vercci7/nexa-finance-web"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>BuscarLivro</h3>
+<p>Aplicação para busca de livros, com consulta a fontes externas e exibição organizada dos resultados.</p>
+<img src="https://img.shields.io/badge/-REST%20API-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<br/><br/>
+<a href="https://github.com/vercci7/buscarlivro"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
+</td>
+</tr>
+</table>
 
 <br/>
 
