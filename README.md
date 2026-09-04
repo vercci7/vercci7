@@ -37,7 +37,7 @@ integrações de APIs e aplicações reais em produção.
 
 <br/><br/>
 
-Estudante de **Sistemas de Informação**, com foco em **Full Stack**, **Python** e **automação**  sempre unindo desempenho, boa experiência de uso e atenção ao design.
+Estudante de **Sistemas de Informação**, com foco em **Full Stack**, **Python** e **automação** — sempre unindo desempenho, boa experiência de uso e atenção ao design.
 
 Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorando desde APIs REST autenticadas até integrações com pagamentos, automações e inteligência artificial generativa. Também estudo backend em Java/Spring Boot e UX/UI com Figma, o que me permite pensar tanto na arquitetura quanto na experiência de quem usa o produto.
 
@@ -168,8 +168,8 @@ Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorand
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vercci7&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=E63946&icon_color=457B9D&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vercci7&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=vercci7&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=E63946&icon_color=457B9D&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vercci7&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="165" />
 
 <br/>
 
@@ -177,7 +177,7 @@ Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorand
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vercci7&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=E63946&point=457B9D&area=true&area_color=E63946" width="100%" />
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=vercci7&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=E63946&point=457B9D&area=true&area_color=E63946" width="100%" />
 
 </div>
 
