@@ -156,6 +156,16 @@ Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorand
 <a href="https://github.com/vercci7/buscarlivro"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Aruá Crochê</h3>
+<p>Landing page para negócio de crochê artesanal, com catálogo de produtos, seção institucional e contato integrado via WhatsApp.</p>
+<img src="https://img.shields.io/badge/-HTML/CSS/JS-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<br/><br/>
+<a href="https://github.com/vercci7/arua"><img src="https://img.shields.io/badge/Repositório-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://arua-croche.netlify.app/"><img src="https://img.shields.io/badge/Demo-E63946?style=flat-square&logo=netlify&logoColor=white" /></a>
+</td>
+</tr>
 </table>
 
 <br/>
