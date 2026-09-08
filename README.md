@@ -6,11 +6,11 @@
 
 <h1>Victor Ferreira</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=E63946&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%7C+Automa%C3%A7%C3%A3o+%7C+UX%2FUI" alt="Desenvolvedor Full Stack | Python | Automação | UX/UI" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=E63946&center=true&vCenter=true&width=600&lines=Bem+vindo;Desenvolvedor+Full+Stack;Python+%7C+Automa%C3%A7%C3%A3o+%7C+UX%2FUI" alt="Bem vindo - Desenvolvedor Full Stack | Python | Automação | UX/UI" />
 
 
 <p>
-Estudante de Sistemas de Informação construindo software com foco em desenvolvimento Full Stack,,<br/>
+Estudante de Sistemas de Informação construindo software com foco em desenvolvimento Full Stack,<br/>
 integrações de APIs e aplicações reais em produção.
 </p>
 
@@ -40,7 +40,7 @@ integrações de APIs e aplicações reais em produção.
 
 <br/><br/>
 
-Estudante de **Sistemas de Informação**, com foco em **Full Stack**, **Python** e **automação**  sempre unindo desempenho, boa experiência de uso e atenção ao design.
+Estudante de **Sistemas de Informação**, com foco em **Full Stack**, **Python** e **automação** — sempre unindo desempenho, boa experiência de uso e atenção ao design.
 
 Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorando desde APIs REST autenticadas até integrações com pagamentos, automações e inteligência artificial generativa. Também estudo backend em Java/Spring Boot e UX/UI com Figma, o que me permite pensar tanto na arquitetura quanto na experiência de quem usa o produto.
 
