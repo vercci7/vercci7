@@ -50,9 +50,13 @@ integrações de APIs e aplicações reais em produção.
 
 <br/><br/>
 
-Estudante de **Sistemas de Informação**, com foco em **Full Stack**, **Python** e **automação** — sempre unindo desempenho, boa experiência de uso e atenção ao design.
+Estudante de Sistemas de Informação e Desenvolvedor Full Stack em formação, com foco em Python, desenvolvimento web e automação.
 
-Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorando desde APIs REST autenticadas até integrações com pagamentos, automações e inteligência artificial generativa. Também estudo arquitetura backend e UX/UI com Figma, o que me permite pensar tanto na estrutura quanto na experiência de quem utiliza o produto.
+Desenvolvo projetos pessoais e aplicações reais, explorando APIs REST, autenticação, bancos de dados, integrações com pagamentos, inteligência artificial generativa e automação.
+
+Também tenho interesse em arquitetura de software e UX/UI, utilizando Figma para criar experiências mais funcionais e intuitivas.
+
+Gosto de transformar ideias em aplicações reais, unindo código, desempenho, usabilidade e design.
 
 <br/>
 
