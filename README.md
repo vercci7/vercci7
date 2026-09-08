@@ -5,7 +5,9 @@
 <br/>
 
 <h1>Victor Ferreira</h1>
-<h3>Desenvolvedor Full Stack · Python · Automação · UX/UI</h3>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=E63946&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%7C+Automa%C3%A7%C3%A3o+%7C+UX%2FUI" alt="Desenvolvedor Full Stack | Python | Automação | UX/UI" />
+
 
 <p>
 Estudante de Sistemas de Informação construindo software com foco em backend Java,<br/>
@@ -25,6 +27,7 @@ integrações de APIs e aplicações reais em produção.
 
 <a href="https://github.com/vercci7"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/victor-ferreira17/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=457B9D" /></a>
+<a href="https://www.instagram.com/victor_fb4"><img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=E63946" /></a>
 <a href="mailto:victorfbdahora@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=E63946" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:457B9D,100:E63946&height=6&section=header" width="100%"/>
@@ -231,6 +234,7 @@ Trabalho no desenvolvimento de projetos pessoais e aplicações reais, explorand
 
 <a href="https://github.com/vercci7"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/victor-ferreira17/"><img src="https://img.shields.io/badge/LinkedIn-457B9D?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/victor_fb4"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E63946" /></a>
 <a href="mailto:victorfbdahora@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
