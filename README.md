@@ -10,7 +10,7 @@
 
 <p>
 Estudante de Sistemas de Informação construindo software com foco em desenvolvimento Full Stack,<br/>
-integrações de APIs e aplicações reais em produção.
+integrações de APIs, Python e aplicações reais em produção.
 </p>
 
 <br/>
