@@ -6,7 +6,7 @@
 
 <h1>Victor Ferreira</h1>
 
-<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Bem%20vindo%22%2C%22color%22%3A%22%23E63946%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%2C%7B%22text%22%3A%22Desenvolvedor%20Full%20Stack%22%2C%22color%22%3A%22%23457B9D%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%2C%7B%22text%22%3A%22Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20UX%2FUI%22%2C%22color%22%3A%22%23E63946%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%5D&font=Fira%20Code&fontSize=20&backgroundOpacity=0&width=600&height=60&pause=1500&center=true&vCenter=true&border=false&repeat=true&cursorStyle=straight" alt="Bem vindo - Desenvolvedor Full Stack | Python | Automação | UX/UI" />
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Bem%20vindo%22%2C%22color%22%3A%22%23E63946%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%2C%7B%22text%22%3A%22Desenvolvedor%20Full%20Stack%22%2C%22color%22%3A%22%23E63946%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%2C%7B%22text%22%3A%22Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20UX%2FUI%22%2C%22color%22%3A%22%23E63946%22%2C%22typingSpeed%22%3A0.07%2C%22deleteSpeed%22%3A0.15%7D%5D&font=Fira%20Code&fontSize=20&backgroundOpacity=0&width=600&height=60&pause=1500&center=true&vCenter=true&border=false&repeat=true&cursorStyle=straight" alt="Bem vindo - Desenvolvedor Full Stack | Python | Automação | UX/UI" />
 
 <p>
 Estudante de Sistemas de Informação construindo software com foco em desenvolvimento Full Stack,<br/>
@@ -313,16 +313,16 @@ Landing page para negócio de crochê artesanal, com catálogo de produtos, seç
 
 <br/><br/>
 
-| Área                             | Aplicação prática                                                    |
+| Área | Aplicação prática |
 | -------------------------------- | -------------------------------------------------------------------- |
-| 🔗 **APIs REST**                 | Construção e consumo de endpoints para comunicação entre sistemas    |
-| 🔐 **Autenticação JWT**          | Implementação de autenticação e controle de acesso baseado em tokens |
-| 🐳 **Docker**                    | Containerização de aplicações para ambientes consistentes            |
-| 🌐 **Nginx**                     | Configuração de servidor web e proxy reverso                         |
-| ⚙️ **CI/CD**                     | Automação de build e deploy com GitHub Actions                       |
-| 💳 **Integração com pagamentos** | Conexão de aplicações a gateways de pagamento                        |
-| ☁️ **Armazenamento em nuvem**    | Persistência e gerenciamento de arquivos em serviços de nuvem        |
-| 🤖 **Inteligência Artificial**   | Uso de IA generativa em fluxos de automação e produtos próprios      |
+| 🔗 **APIs REST** | Construção e consumo de endpoints para comunicação entre sistemas |
+| 🔐 **Autenticação JWT** | Implementação de autenticação e controle de acesso baseado em tokens |
+| 🐳 **Docker** | Containerização de aplicações para ambientes consistentes |
+| 🌐 **Nginx** | Configuração de servidor web e proxy reverso |
+| ⚙️ **CI/CD** | Automação de build e deploy com GitHub Actions |
+| 💳 **Integração com pagamentos** | Conexão de aplicações a gateways de pagamento |
+| ☁️ **Armazenamento em nuvem** | Persistência e gerenciamento de arquivos em serviços de nuvem |
+| 🤖 **Inteligência Artificial** | Uso de IA generativa em fluxos de automação e produtos próprios |
 
 <br/>
 
@@ -334,12 +334,12 @@ Landing page para negócio de crochê artesanal, com catálogo de produtos, seç
 
 <br/><br/>
 
-* Aprofundamento em **desenvolvimento backend** para APIs mais robustas e escaláveis
-* Boas práticas de **arquitetura backend** e organização de código
-* **Docker** e **Nginx** aplicados a ambientes de produção
-* **Automação de processos com Python**
-* **UX/UI com Figma**, aplicando design centrado no usuário aos próprios projetos
-* Uso avançado de **Inteligência Artificial generativa** em produtos reais
+- Aprofundamento em **desenvolvimento backend** para APIs mais robustas e escaláveis
+- Boas práticas de **arquitetura backend** e organização de código
+- **Docker** e **Nginx** aplicados a ambientes de produção
+- **Automação de processos com Python**
+- **UX/UI com Figma**, aplicando design centrado no usuário aos próprios projetos
+- Uso avançado de **Inteligência Artificial generativa** em produtos reais
 
 <br/>
 
