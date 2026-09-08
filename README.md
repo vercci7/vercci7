@@ -6,7 +6,7 @@
 
 <h1>Victor Ferreira</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=E63946&center=true&vCenter=true&width=600&height=60&lines=Bem+vindo;Desenvolvedor+Full+Stack;Python+%7C+Automa%C3%A7%C3%A3o+%7C+UX%2FUI" alt="Bem vindo - Desenvolvedor Full Stack | Python | Automação | UX/UI" />
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Bem%20vindo%22%7D%2C%7B%22text%22%3A%22Desenvolvedor%20Full%20Stack%22%7D%2C%7B%22text%22%3A%22Python%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20UX%2FUI%22%7D%5D&font=Fira%20Code&fontSize=20&color=%23E63946&backgroundOpacity=0&width=600&height=60&typingSpeed=0.08&deleteSpeed=0.12&pause=1000&center=true&vCenter=true&repeat=true&border=false&cursorStyle=straight" alt="Bem vindo - Desenvolvedor Full Stack | Python | Automação | UX/UI"/>
 
 <p>
 Estudante de Sistemas de Informação construindo software com foco em desenvolvimento Full Stack,<br/>
